@@ -1,0 +1,21 @@
+# CDK
+agentcore/cdk/node_modules/
+agentcore/cdk/cdk.out/
+
+# AgentCore CLI state and secrets
+agentcore/.cli/
+agentcore/.env.local
+agentcore/.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
